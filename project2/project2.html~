@@ -1,0 +1,70 @@
+<html>
+  <head>
+   <link rel="stylesheet" href="project2.css"/>
+    <title>Honda Nepal</title>
+  </head>
+    <body>
+      <section id="wrapper">
+        <section class="wrapper1">
+            <div class="header">
+            <img src="images/honda_logo.png" alt="honda">
+            <div>
+             <form id="form">
+                <input class="form height" type="text" value="username" size="10" maxlength="150"  >
+                <input class="form height" type="password" value="password" size="10" maxlength="150">
+                <a href="login.html"><img src="images/login_btn.png" class="form"></a><br>
+             	
+		<div  class="signup"><a href="home.html">sign up |</a><a href="home.html">forgot password?</a></div>
+ 		</form>           
+	</div>
+          </div>
+            <div>
+              <nav>
+                <ul>
+                  <li><a href="hondaNepal.html" class="li1">home</a></li>
+                  <li><a href="hondaNepal.html" class="li2">about us</a></li>
+                  <li><a href="hondaNepal.html" class="li3">products</a></li>
+                  <li><a href="hondaNepal.html" class="li4">faq</a></li>
+                  <li><a href="hondaNepal.html" class="li5">contact us</a></li>
+                </ul>
+                </nav>
+            </div>
+            <div class="body1">
+					
+		<a><img src="images/slider_img_1.png" class="cbr"></a>
+		<a><img src="images/gallery_big_icon.png" class="gallery"></a>
+		<a><img src="images/signup_big_iconla.png"  class="signup1"></a>
+ 		<a><img src="images/contact_big_icon.png" class="contact"></a>
+		<a><img src="images/sms_big_icon.png" class="sms"></a>           
+		</div>
+        </section>
+        <section class="wrapper2">
+						<a><img src="images/showroom_big_icon.png" class="showroomicon"></a>
+						<a><img src="images/service_big_icon.png" class="servicecenter"></a><br>
+						<a><img src="images/spareparts_big_icon.png"  class="sparepart"></a>
+ 						<a><img src="images/tollfree_big_icon.png" class="tollfree"></a>
+						<a><img src="images/lower_banner_1.png" class="lowerbanner"></a>  
+						<a><img src="images/db_dummy.png" class="dummyimage"></a>
+					</section>  
+			<section>
+					<footer class="wrapper3">
+						 
+                  <a href="hondaNepal.html" class="li">About honda Nepal|</a>
+                  <a href="hondaNepal.html" class="li">Honda showroom|</a>
+                  <a href="hondaNepal.html" class="li">Honda Services|</a>
+                  <a href="hondaNepal.html" class="li">Contacts|</a>
+                  <a href="hondaNepal.html" class="li">side Map|</a>
+									<a href="hondaNepal.html" class="li">Honda.com|</a>
+									<a href="hondaNepal.html" class="li">Terms of Use|</a>
+									<a href="hondaNepal.html" class="li">Privacy Policy|</a>
+									<a href="hondaNepal.html" class="li">Trademark|</a>
+									<a href="hondaNepal.html" class="li">support|</a>
+									<a href="hondaNepal.html" class="li">Product recall Information|</a>
+									<a href="hondaNepal.html" class="li">manuals|</a><br><br>		
+                
+                <p>@2012 Honda Nepal, All rights reserved</p>
+          </footer>
+        </section>
+      </section>
+    </body>
+</html>

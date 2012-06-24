@@ -1,0 +1,302 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body
+{
+  background-color:#666666;
+}
+
+#wrapper
+{
+  width:960px;
+  height:auto;
+  margin:0 auto;
+  margin-top:20px;
+  display:block;
+  color:black;
+	background-color:#FF0A0A;
+}
+
+.wrapper1
+{
+	float:left;
+	display:block;
+	height:auto;
+	background-color:#CC0000;
+}
+
+.header
+{
+  float:left;
+  width:960px;
+  height:111px;
+  display:block;
+
+}
+
+#form
+{
+  float:left;
+  display:block;
+  width:%;
+	height:auto;
+  margin: -50px 0 0 550px;
+	border-color:blue;
+}
+
+.signup
+{
+	text-color:white;
+	font-size:11px;
+	margin:6px 0 0 146px;
+	float:left;
+  text-decoration:none;
+}
+
+nav
+{
+  color:white;
+  float:left;
+  display:block;
+  width:100%;
+  padding:5px;
+}
+
+nav ul
+{
+  list-style:none;
+}
+
+nav ul li
+{
+  float: left;
+  font-size: 12px;
+  font-weight: bold;
+  margin: 0 2px;
+  padding: 0 18px
+}
+
+nav ul li a
+{
+  color:white;
+  text-decoration:none;
+
+}
+
+nav ul li a:hover
+{
+  color:white;
+  text-decoration:none;
+}
+
+.li1
+{
+	float:left;
+	display:block;
+	padding:51px 0px 0 0px;
+	background:url("images/icon_home.png") no-repeat center;
+	letter-spacing:1px;
+	line-height:30px;
+	font-size:20px;
+}
+
+.li2
+{
+  float:left;
+  display:block;
+  background:url("images/honda_small_logo.png") no-repeat center;
+  padding:51px 30px 0 0px;
+  margin:0px 0px 0 0px;
+  line-height:30px;
+  letter-spacing:1px;
+  font-size:20px;
+}
+
+.li3
+{
+  float:left;
+  display:block;
+  width:16xp;
+  height:22px;
+  background:url("images/icon_bike.png") no-repeat center;
+  padding:51px 0px 0px 0px;
+  letter-spacing:1px;
+  line-height:30px;
+  font-size:20px;
+}
+
+.li4
+{
+  float:left;
+  display:block;
+  background:url("images/icon_faq.png") no-repeat center;
+  letter-spacing:1px;
+  padding:51px 10px 0 10px;
+  line-height:30px;
+  font-size:20px;
+}
+
+.li5
+{
+  float:left;
+  display:block;
+  background:url("images/icon_contact.png") no-repeat center;
+  letter-spacing:1px;
+  padding:51px 10px 0 10px;
+  line-height:30px;
+  font-size:20px;
+} 
+
+.cbr
+{
+ 	float:left;
+	display:block;
+	width:532px;
+	height:390px;
+	margin: 41px 1px 14px;
+	
+}
+
+.gallery
+{
+	float:left;
+	display:block;
+	width:130px;
+	height:138px;
+	background-color:#660000;
+	margin: 41px 19px 0 10px;
+	padding: 17px 31px 30px 
+}
+
+.signup1
+{
+	float:left;
+	display:block;
+	margin: 41px 0 0;
+	width:136px;
+	height:136px;
+	background-color:#FF9900;
+	padding: 17px 31px 30px 38px;
+		
+}
+
+.contact 
+{
+  background-color: #FF470A;
+  display: block;
+  float: left;
+  height: 116px;
+  margin: 10px 0 3px 222px;
+  padding: 0 25px 75px 44px;
+	width: 135px;
+}
+
+.sms
+{
+  background-color: #FF4747;
+  display: block;
+  float: left;
+  height: 140px;
+  margin: -191px 0 0 10px;
+  padding: 20px 31px 29px 23px;
+  width: 137px;
+}
+
+.wrapper2
+{
+	float:left;
+	display:block;
+	height:auto;
+	width:960px;
+	background-color:#FF0A0A;
+}
+
+.showroomicon
+ {
+  background-color: #660000;
+  display: block;
+  float: left;
+  height: 64px;
+  margin: 4px 47px 0 0;
+  padding: 53px 12px 56px 16px;
+  width: 236px;
+}
+
+.servicecenter
+ {
+	background-color: #CC0000;
+  display: block;
+  float: left;
+  height: 89px;
+  margin: 4px 0 0 -39px;
+  padding: 15px 0 70px 12px;
+  width: 249px;
+}
+
+.sparepart
+{
+	background-color: #CC0000;
+	display:block;
+	height:114px;
+	margin: 166px 0 0;
+  padding: 15px 28px 26px 1px;
+	width:234px;
+	}
+
+.tollfree
+{
+	background-color: #CC0000;
+	display:block;
+	height:127px;
+	width:247px;
+	margin: -152px 270px 30px;
+  padding: 0 7px 25px 9px;
+}
+
+.lowerbanner
+{
+	display:block;
+	height:127px;
+	width:533px;
+	float:left;
+	margin:-16px 0 0;
+}
+
+.dummyimage
+{
+	display:block;
+	height:476px;
+	width:386px;
+	float:left;
+	padding: 0 0 0 12px;
+	margin: -364px -5px 0;
+}
+
+.wrapper3
+{
+ 	background-color:#CC0000;
+	display:block;
+	height:1300px;
+}
+
+.li
+{
+	float:left;
+	display:block;
+	text-decoration:none;
+	font-size:12px;
+	color:white;
+	margin: 32px 0 0 23px;
+}
+
+p 
+{
+  color: white;
+  display: block;
+  float: left;
+  font-size: 12px;
+  margin: 0 34px 0 0;
+  padding: 79px 0 0;
+}
